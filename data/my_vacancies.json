@@ -1,0 +1,1681 @@
+[
+    {
+        "id": "102555709",
+        "premium": false,
+        "name": "Шеф - Повар / Су - Шеф",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "159",
+            "name": "Астана",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "salary": {
+            "from": 500000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-24T08:38:03+0300",
+        "created_at": "2024-06-24T08:38:03+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102555709",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102555709?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102555709",
+        "relations": [],
+        "employer": {
+            "id": "10982907",
+            "name": "Абубакиров",
+            "url": "https://api.hh.ru/employers/10982907",
+            "alternate_url": "https://hh.ru/employer/10982907",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6763730.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1285858.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6763731.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10982907",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы на кухне от 6 лет и выше. На позиции шеф-<highlighttext>повара</highlighttext> от 3 лет. Опыт управление командой кухни. ",
+            "responsibility": "Знание стейков Ти-Бон, Рибай, Даллас, Томагавк и знание всех степеней прожарки. Опыт работы со стейками Premium сегмента как Prime..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "101762310",
+        "premium": false,
+        "name": "Шеф-повар",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        },
+        "salary": {
+            "from": 800000,
+            "to": 1000000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-11T20:06:09+0300",
+        "created_at": "2024-06-11T20:06:09+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101762310",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/101762310?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101762310",
+        "relations": [],
+        "employer": {
+            "id": "3882811",
+            "name": "Next",
+            "url": "https://api.hh.ru/employers/3882811",
+            "alternate_url": "https://hh.ru/employer/3882811",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/994679.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5599512.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5599513.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3882811",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Профессиональный опыт на кухни не менее 3-х лет. Навыки руководителя. Кулинарные навыки, уметь и творить новые блюда. Стрессоустойчивость. ",
+            "responsibility": "Управление технологией производства по стандартам центра. Поиск и работа с поставщиками продовольственных товаров на взаимовыгодных условиях, составление заявок, контроль за..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102631411",
+        "premium": false,
+        "name": "Шеф-повар",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-25T00:41:54+0300",
+        "created_at": "2024-06-25T00:41:54+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102631411",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102631411?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102631411",
+        "relations": [],
+        "employer": {
+            "id": "3346184",
+            "name": "ПИВАЛЬДИ",
+            "url": "https://api.hh.ru/employers/3346184",
+            "alternate_url": "https://hh.ru/employer/3346184",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/2599389.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/2599390.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/539479.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3346184",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "опыт работы в сфере общественного питания на должности шеф-<highlighttext>повара</highlighttext> не менее 5 лет. - развитые лидерские и организационные качества, умение...",
+            "responsibility": "организация и координация бесперебойной работы кухни. - формирование команды. - контроль качества сырья, соблюдения рецептур. - приготовление блюд согласно технологическим картам. - "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102442459",
+        "premium": false,
+        "name": "Опытный повар горячего цеха",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": {
+            "from": 9000000,
+            "to": 12000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-21T15:24:59+0300",
+        "created_at": "2024-06-21T15:24:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102442459",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102442459?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102442459",
+        "relations": [],
+        "employer": {
+            "id": "9670985",
+            "name": "TAKAI-GROUP",
+            "url": "https://api.hh.ru/employers/9670985",
+            "alternate_url": "https://hh.ru/employer/9670985",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1074722.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/5919518.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/5919517.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9670985",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знание итальянской кухни. Умение работать на гриле. Средиземноморская кухня. От 3 х лет опыта работы.",
+            "responsibility": "<highlighttext>Повар</highlighttext> горячего цеха."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "101949593",
+        "premium": false,
+        "name": "Продавец-кассир",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "113",
+            "name": "Россия",
+            "url": "https://api.hh.ru/areas/113"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-14T15:39:16+0300",
+        "created_at": "2024-06-14T15:39:16+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101949593",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/101949593?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101949593",
+        "relations": [],
+        "employer": {
+            "id": "2939358",
+            "name": "Буханка",
+            "url": "https://api.hh.ru/employers/2939358",
+            "alternate_url": "https://hh.ru/employer/2939358",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6292346.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1167977.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/6292347.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2939358",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "мед. книжка (если нет, поможем сделать). - вежливость, тактичность, коммуникабельность.",
+            "responsibility": "общение с покупателями по ассортименту продукции. - приготовление напитков и допекание продукции (сложного ничего нет, всему научим). - работа с кассой. - "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "97",
+                "name": "Продавец-консультант, продавец-кассир"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102711081",
+        "premium": false,
+        "name": "Семейный повар",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 250000,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": null,
+            "street": null,
+            "building": null,
+            "lat": null,
+            "lng": null,
+            "description": null,
+            "raw": null,
+            "metro": {
+                "station_name": "Боровицкая",
+                "line_name": "Серпуховско-Тимирязевская",
+                "station_id": "9.7",
+                "line_id": "9",
+                "lat": 55.750399,
+                "lng": 37.60934
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Боровицкая",
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "station_id": "9.7",
+                    "line_id": "9",
+                    "lat": 55.750399,
+                    "lng": 37.60934
+                }
+            ],
+            "id": "15766096"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-25T17:32:07+0300",
+        "created_at": "2024-06-25T17:32:07+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102711081",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102711081?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102711081",
+        "relations": [],
+        "employer": {
+            "id": "606014",
+            "name": "Столичное сервисное агентство",
+            "url": "https://api.hh.ru/employers/606014",
+            "alternate_url": "https://hh.ru/employer/606014",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/782253.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/166045.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/782252.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=606014",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Подтверждённый опыт работы шеф-<highlighttext>поваром</highlighttext> в ресторанах высокой кухни или <highlighttext>поваром</highlighttext> в семье (обязательно). Наличие среднего специального образования <highlighttext>повара</highlighttext>.",
+            "responsibility": "Контроль соблюдения технологии приготовления пищи. Приготовление вкусной здоровой пищи на 4-5 человек. По окончании рабочего дня <highlighttext>повар</highlighttext> оставляет рабочее..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "100467446",
+        "premium": false,
+        "name": "Кассир Sushi-Market",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": {
+            "from": 4000000,
+            "to": 6000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-05-28T10:25:47+0300",
+        "created_at": "2024-05-28T10:25:47+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100467446",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/100467446?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100467446",
+        "relations": [],
+        "employer": {
+            "id": "10352904",
+            "name": "SUSHI MARKET 7",
+            "url": "https://api.hh.ru/employers/10352904",
+            "alternate_url": "https://hh.ru/employer/10352904",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6529657.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6529658.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1227304.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10352904",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опрятный внешний вид и хорошее настроение. - Умение работать с деньгами (корректно выдавать сдачу, складывать купюры аккуратно и бережно). - ",
+            "responsibility": "Готовность периодически наводить чистоту на рабочем месте. - Готовность помогать <highlighttext>повару</highlighttext> (мыть инвентарь, витрину и посуду). - Выполнение инструкций и правил техники..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "97",
+                "name": "Продавец-консультант, продавец-кассир"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102626737",
+        "premium": false,
+        "name": "Личный Шеф-повар",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "Кутузовский проспект",
+            "building": "2/1с6",
+            "lat": 55.752328,
+            "lng": 37.566773,
+            "description": null,
+            "raw": "Москва, Кутузовский проспект, 2/1с6",
+            "metro": null,
+            "metro_stations": [],
+            "id": "12673324"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-24T21:14:25+0300",
+        "created_at": "2024-06-24T21:14:25+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102626737",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102626737?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102626737",
+        "relations": [],
+        "employer": {
+            "id": "9530037",
+            "name": "Начало",
+            "url": "https://api.hh.ru/employers/9530037",
+            "alternate_url": "https://hh.ru/employer/9530037",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1053696.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/5835429.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/5835430.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9530037",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "ПЕДАНТИЧНОСТЬ, АККУРАТНОСТЬ, ДЕТАЛЬНЫЙ ПОДХОД К ЕДЕ, САНИТАРИИ И ПРОДУКТУ. КУХНЯ ЕВРОПА, УЗБЕКСКАЯ КУХНЯ. ОПЫТ РАБОТЫ ЛИЧНЫМ ШЕФ - <highlighttext>ПОВАРОМ</highlighttext> ЖЕЛАТЕЛЕН.",
+            "responsibility": "Приготовление завтрака, обеда и ужина. Выполнение поручений в рамках компетенции Шеф - <highlighttext>повара</highlighttext>, разработка новых блюд, закуп продукта."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "101924090",
+        "premium": false,
+        "name": "Управляющий на виллу в Дубай",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 480000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-14T11:46:50+0300",
+        "created_at": "2024-06-14T11:46:50+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101924090",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/101924090?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101924090",
+        "relations": [],
+        "employer": {
+            "id": "2296035",
+            "name": "Агентство Очень Важный Персонал",
+            "url": "https://api.hh.ru/employers/2296035",
+            "alternate_url": "https://hh.ru/employer/2296035",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/379957.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/1962086.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/1962087.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2296035",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знание английского и русского языков на разговорном уровне. Образование: инженерное, строительное. Добросовестный, стрессоустойчивый, опытный и порядочный кандидат. Опыт работы в...",
+            "responsibility": "Обеспечение комфортного проживания на вилле. Взаимодействие и контроль персонала (горничные, <highlighttext>повар</highlighttext>, батлер). Взаимодействие и контроль садовника. Решение мелких технических проблем..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "8",
+                "name": "Администратор"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102514252",
+        "premium": false,
+        "name": "Администратор",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "24",
+            "name": "Волгоград",
+            "url": "https://api.hh.ru/areas/24"
+        },
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "anonymous",
+            "name": "Анонимная"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-23T12:24:39+0300",
+        "created_at": "2024-06-23T12:24:39+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102514252",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102514252?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102514252",
+        "relations": [],
+        "employer": {
+            "name": "Частный гостевой дом на 10-15 человек.",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы официантом приветствуется. Хорошие организатоские навыки. Соблюдение корпоративных стандартов при общении с гостями. Дисциплинированность, ответственность.",
+            "responsibility": "Полное администрирование гостевого дома. Встреча гостей и их размещение. Решение организационных вопросов. Возможная помощь <highlighttext>повару</highlighttext> при обслуживании гостей (сервировка стола..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "8",
+                "name": "Администратор"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102620030",
+        "premium": false,
+        "name": "Повар в семью",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 200000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "коттеджный посёлок Николино",
+            "street": null,
+            "building": null,
+            "lat": 55.686574,
+            "lng": 37.089623,
+            "description": null,
+            "raw": "коттеджный посёлок Николино",
+            "metro": null,
+            "metro_stations": [],
+            "id": "15982566"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-24T18:07:31+0300",
+        "created_at": "2024-06-24T18:07:31+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102620030",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102620030?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102620030",
+        "relations": [],
+        "employer": {
+            "id": "1526145",
+            "name": "Go! Chefs",
+            "url": "https://api.hh.ru/employers/1526145",
+            "alternate_url": "https://hh.ru/employer/1526145",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/893728.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/4015599.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/4015600.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1526145",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы семейным <highlighttext>поваром</highlighttext>. - Знание европейских кухонь ( особенно итальянской ). - Личный автомобиль. Предпочтения:",
+            "responsibility": "Закупка продуктов + отслеживание сезонности, контроль свежести и качества, контроль условий хранения. - Составление и согласование меню. - Приготовление разнообразных блюд для..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102682122",
+        "premium": false,
+        "name": "Управляющий рестораном",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-25T13:26:21+0300",
+        "created_at": "2024-06-25T13:26:21+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102682122",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102682122?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102682122",
+        "relations": [],
+        "employer": {
+            "id": "3249475",
+            "name": "22 сантиметра",
+            "url": "https://api.hh.ru/employers/3249475",
+            "alternate_url": "https://hh.ru/employer/3249475",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/2597693.png",
+                "240": "https://img.hhcdn.ru/employer-logo/2597694.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/539055.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3249475",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы на аналогичной должности от 2 лет. Хорошие коммуникативные навыки, ясная устная и письменная речь, навыки деловой переписки. ",
+            "responsibility": "Участие в разработке и реализация маркетинговой стратегии ресторана. Активное взаимодействие с шеф-<highlighttext>поваром</highlighttext> по созданию новых позиций в меню. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "74",
+                "name": "Менеджер ресторана"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "93852022",
+        "premium": false,
+        "name": "Повар (Предпортовая ул., 6 литер С)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 80500,
+            "to": 86500,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Санкт-Петербург",
+            "street": "Предпортовая улица",
+            "building": "6С",
+            "lat": 59.838557,
+            "lng": 30.298099,
+            "description": null,
+            "raw": "Санкт-Петербург, Предпортовая улица, 6С",
+            "metro": {
+                "station_name": "Московская",
+                "line_name": "Московско-Петроградская",
+                "station_id": "15.224",
+                "line_id": "15",
+                "lat": 59.848873,
+                "lng": 30.321483
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Московская",
+                    "line_name": "Московско-Петроградская",
+                    "station_id": "15.224",
+                    "line_id": "15",
+                    "lat": 59.848873,
+                    "lng": 30.321483
+                }
+            ],
+            "id": "7146140"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-10T08:32:43+0300",
+        "created_at": "2024-06-10T08:32:43+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93852022",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/93852022?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/93852022",
+        "relations": [],
+        "employer": {
+            "id": "620537",
+            "name": "РеалЪ ТД",
+            "url": "https://api.hh.ru/employers/620537",
+            "alternate_url": "https://hh.ru/employer/620537",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/5827910.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/5827909.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1051814.JPG"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=620537",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Соблюдение санитарных норм, умение работать по ТТК. Требования. Опыт работы от 1 года. Доброжелательность, трудолюбие, аккуратность, исполнительность.",
+            "responsibility": "Приготовление салатов, холодных закусок, сэндвичей, гамбургеров, напитков. Изготовление полуфабрикатов, начинок и фарша в соответствии с технологическими картами. Контроль хранения расхода..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102681031",
+        "premium": false,
+        "name": "Шеф-повар",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-25T13:17:42+0300",
+        "created_at": "2024-06-25T13:17:42+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102681031",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102681031?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102681031",
+        "relations": [],
+        "employer": {
+            "id": "5060651",
+            "name": "Отель Гуляй Город",
+            "url": "https://api.hh.ru/employers/5060651",
+            "alternate_url": "https://hh.ru/employer/5060651",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5060651",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знание основ организации общественного питания. Опыт работы на аналогичной должности не менее 3-х лет. Умение работать по технологическим картам.",
+            "responsibility": "Организация и контроль работы кухни. Разработка меню с нуля, введение новых блюд. Контроль соблюдения технологии приготовления блюд. Обучение <highlighttext>поваров</highlighttext>."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "101523797",
+        "premium": false,
+        "name": "Гувернантка/гувернер в Японию",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 300000,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-07T17:48:59+0300",
+        "created_at": "2024-06-07T17:48:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101523797",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/101523797?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101523797",
+        "relations": [],
+        "employer": {
+            "id": "196117",
+            "name": "Персонал Милы Кемпински",
+            "url": "https://api.hh.ru/employers/196117",
+            "alternate_url": "https://hh.ru/employer/196117",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=196117",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Профильное образование: дошкольное воспитание или учитель нач. кл. Опыт работы гувернанткой с детьми данного возраста. Увлеченный педагог. Важно: Инициативность педагога. ",
+            "responsibility": "Дети: девочки двойняшки 5 лет. 2 взрослых -. Мама, папа, 2 девочки 5 лет. На Кипре: (от 2 ч., будет больше..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "23",
+                "name": "Воспитатель, няня"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102551295",
+        "premium": false,
+        "name": "Шеф-повар ресторана \"Перчини\" (г. Ноябрьск)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1420",
+            "name": "Ноябрьск",
+            "url": "https://api.hh.ru/areas/1420"
+        },
+        "salary": {
+            "from": null,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Ноябрьск",
+            "street": "Советская улица",
+            "building": "92",
+            "lat": 63.20273,
+            "lng": 75.467144,
+            "description": null,
+            "raw": "Ноябрьск, Советская улица, 92",
+            "metro": null,
+            "metro_stations": [],
+            "id": "2957603"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-24T07:35:55+0300",
+        "created_at": "2024-06-24T07:35:55+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102551295",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102551295?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102551295",
+        "relations": [],
+        "employer": {
+            "id": "1636264",
+            "name": "ROSTIC'S (ООО ПЕРСПЕКТИВА СЕВЕР)",
+            "url": "https://api.hh.ru/employers/1636264",
+            "alternate_url": "https://hh.ru/employer/1636264",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6314142.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1173429.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6314143.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1636264",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы от 3-ех лет в должности шеф-<highlighttext>повара</highlighttext>/су-шефа. Знание нормативных документов, регламентирующих деятельность предприятий общественного питания. ",
+            "responsibility": "Контроль за качеством приготовленных блюд. Контроль хранения сырья, полуфабрикатов и готовой продукции. Соблюдение санитарных правил и норм. Управление командой <highlighttext>поваров</highlighttext>."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "74",
+                "name": "Менеджер ресторана"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102337525",
+        "premium": false,
+        "name": "Фасовщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 58000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-20T10:24:12+0300",
+        "created_at": "2024-06-20T10:24:12+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102337525",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102337525?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102337525",
+        "relations": [],
+        "employer": {
+            "id": "4762147",
+            "name": "Х5 Еда",
+            "url": "https://api.hh.ru/employers/4762147",
+            "alternate_url": "https://hh.ru/employer/4762147",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1195768.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/6403525.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6403526.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4762147",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Желание работать на производстве, аккуратность и ответственность.",
+            "responsibility": "Упаковывать и фасовать готовую еду."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "131",
+                "name": "Упаковщик, комплектовщик"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "101395222",
+        "premium": false,
+        "name": "Повар",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-06T09:32:31+0300",
+        "created_at": "2024-06-06T09:32:31+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101395222",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/101395222?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101395222",
+        "relations": [],
+        "employer": {
+            "id": "9921",
+            "name": "Группа компаний Кафетера",
+            "url": "https://api.hh.ru/employers/9921",
+            "alternate_url": "https://hh.ru/employer/9921",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6343459.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/6343458.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1180758.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9921",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Умение работать по технологическим картам. Опыт работы в столовой/ресторане (будет преимуществом). Наличие медицинской книжки или готовность ее оформить.",
+            "responsibility": "Приготовление блюд по утвержденному меню. Работа по технологическим картам. Соблюдение требований санитарии и безопасности труда. Соблюдение стандартов сервиса компании."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102659381",
+        "premium": false,
+        "name": "Су-шеф",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "посёлок Усово-Тупик",
+            "street": null,
+            "building": null,
+            "lat": 55.730137,
+            "lng": 37.226518,
+            "description": null,
+            "raw": "посёлок Усово-Тупик",
+            "metro": null,
+            "metro_stations": [],
+            "id": "11209034"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-25T10:37:05+0300",
+        "created_at": "2024-06-25T10:37:05+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102659381",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102659381?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102659381",
+        "relations": [],
+        "employer": {
+            "id": "6118815",
+            "name": "Фэмили Офис",
+            "url": "https://api.hh.ru/employers/6118815",
+            "alternate_url": "https://hh.ru/employer/6118815",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/5501857.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/5501856.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/970262.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6118815",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы на должности <highlighttext>повара</highlighttext> не менее двух лет или личного <highlighttext>повара</highlighttext> в VIP семье. Умение работать аккуратно. ",
+            "responsibility": "Помощь шеф-<highlighttext>повару</highlighttext> в приготовлении меню для VIP персоны. Поддержание частоты зоны VIP кухни."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "82111871",
+        "premium": false,
+        "name": "Повар (с опытом и без опыта)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 40000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-06T09:45:41+0300",
+        "created_at": "2024-06-06T09:45:41+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82111871",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/82111871?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/82111871",
+        "relations": [],
+        "employer": {
+            "id": "21743",
+            "name": "Сеть кофеен Шоколадница",
+            "url": "https://api.hh.ru/employers/21743",
+            "alternate_url": "https://hh.ru/employer/21743",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/664857.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/3100561.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/3100560.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=21743",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Стрессоустойчивость, ответственность, аккуратность. Готовность работать в команде. Желание развиваться в новой сфере.",
+            "responsibility": "Приготовление блюд в соответствии со стандартами кофейни. Улучшение уже имеющихся навыков приготовления блюд. Соблюдение правил гигиены на рабочем месте и..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    }
+]
