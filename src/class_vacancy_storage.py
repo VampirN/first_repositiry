@@ -45,5 +45,5 @@ class JSONVacancyStorage(VacancyStorage):
         self._save_to_file()
 
     def _save_to_file(self):
-        with open(self.file_path, 'w') as file:
-            json.dump(self.vacancies, file)
+        with open(self.file_path, 'w', encoding="utf-8") as file:
+            json.dump(self.vacancies, file, indent=4, ensure_ascii=False)
